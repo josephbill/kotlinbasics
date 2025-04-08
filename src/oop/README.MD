@@ -20,6 +20,11 @@ i.e. not blueprints
 6. Sealed classes:  classes that restrict inheritance 
 7. Singletons : classes with methods to perform common
 functionalities 
+8. Access modifiers :: provides variables in classes with visibility control
+- public (default) 
+- private 
+- protected 
+- internal (visible within the same module)
 
 
 
